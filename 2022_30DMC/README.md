@@ -1,4 +1,4 @@
-$${\color{red}This repo originated from a previous repository named ONS_30DayMapChallenge_2022. It has been brought into this repo so all ONS 30 Day Map Challenge code is in one place. The origional ONS_30DayMapChallenge_2022 repo was developed with contributions from @MusaChirikeni and @jordanjpparker$$
+$${\color{red}This repo originated from a previous repository named ONS_30DayMapChallenge_2022. It has been brought into this repo so all ONS 30 Day Map Challenge code is in one place. The origional ONS_30DayMapChallenge_2022 repo was developed with contributions from @MusaChirikeni and @jordanjpparker}$$
 
 
 # ONS Geography #30DayMapChallenge 2022
